@@ -11,7 +11,6 @@
 | [amateur-football-assistant](https://github.com/hevvi773-cpu/amateur-football-assistant) | 校园足球助手 · AI 队长：XGBoost 胜负预测准确率 77.1%，FastAPI + React 全栈，含 ML 实验报告与 PRD |
 | [campus-trade-platform](https://github.com/hevvi773-cpu/campus-trade-platform) | 校园二手交易平台：Flask + Docker 部署的半封闭社区 C2C 交易系统，已上线运行 |
 | [ai-pricing-assistant](https://github.com/hevvi773-cpu/ai-pricing-assistant) | AI 二手商品智能定价助手：RAG 检索 + 大模型定价理由，支持图片识别与对话式微调 |
-| [portfolio](https://github.com/hevvi773-cpu/portfolio) | AI 产品经理作品集，PDF 成品与网页源文件 |
 | [court-shadow](https://github.com/hevvi773-cpu/court-shadow) | 宫廷身份博弈小游戏原型，含规则设计与思考过程 |
 
 ## 关于我
@@ -24,4 +23,4 @@
 
 邮箱 cata1245689@163.com
 
-完整作品集见 [portfolio](https://github.com/hevvi773-cpu/portfolio) 仓库。
+作品集 PDF 与简历可邮件联系获取。
